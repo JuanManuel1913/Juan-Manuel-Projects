@@ -1,0 +1,1 @@
+Estos son mis proyectos personales que me gustaría destacar. Estos proyectos se llevaron a cabo durante el curso de la formación en Análisis de Datos. Los datos son datos ficticios que han sido extraídos de información pública la cual ha sido modificada para su posterior análisis y visualización
